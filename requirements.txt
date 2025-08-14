@@ -1,0 +1,12 @@
+# 🚀 Ready to roll with movie magic! Install these and let the recommendations begin.
+
+# Movie Recommendation System - Dependencies 🎬
+
+python_version >= 3.9
+streamlit==1.25.0
+pandas==2.0.3
+numpy==1.24.4
+scikit-learn==1.3.0
+requests==2.31.0
+Pillow==10.0.0
+

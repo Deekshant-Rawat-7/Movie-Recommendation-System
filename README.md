@@ -7,14 +7,6 @@ https://ieeexplore.ieee.org/document/10428182
 
 
 
-# Recommendation_System
-
-
-
-Check out the research paper:
-https://ieeexplore.ieee.org/document/10428182
-
-
 # 🎬 Movie Recommendation System Using Content-Based Filtering
 
 This project is a content-based movie recommendation system that suggests similar movies based on user input. It uses metadata from movies such as genres, cast, crew, keywords, and overview to compute similarity using **CountVectorizer** and **Cosine Similarity**. The system is deployed as an interactive web app using **Streamlit**.
@@ -135,4 +127,3 @@ Graphic Era Hill University
 
 Symbiosis Institute of Technology
 
-TMDB API for movie data and posters
